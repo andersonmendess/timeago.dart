@@ -9,6 +9,8 @@ Map<String, LookupMessages> _lookupMessagesMap = {
   'en_short': EnShortMessages(),
   'es': EsMessages(),
   'es_short': EsShortMessages(),
+  'ptbr': PtBrMessages(),
+  'ptbr_short': PtBrShortMessages(),
 };
 
 /// Sets the default [locale]. By default it is `en`.
